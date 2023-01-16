@@ -6,7 +6,7 @@ I'm passionate in building things people would love
 
 
 ## Hobbies
-🏃🏽‍♂️ Running (trying in to get my first marathon in 2023)\
+🏃🏽‍♂️ Running (trying to get my first marathon in 2023)\
 🎾 Tennis\
 🎬 Films\
 📖 Reading
