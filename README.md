@@ -13,5 +13,5 @@ I'm passionate in building things people would love
 
 ## Connect with Me
 - [Porfolio](https://www.wpzeng.com)
-- [Linkedin](www.linkedin.com/in/wpzeng)
-- [TopCoder](www.topcoder.com/members/waynn)
+- [Linkedin](https://www.linkedin.com/in/wpzeng)
+- [TopCoder](https://www.topcoder.com/members/waynn)
