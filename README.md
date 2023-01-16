@@ -2,7 +2,7 @@
 I'm passionate in building things people would love
 
 ## Current Projects
-🥗 [DietGo](#) - I'm currently trying to build a diet suggestion app with AIGC
+🥗 [DietGo](#) - I'm currently builing a diet suggestion app with AIGC
 
 
 ## Hobbies
