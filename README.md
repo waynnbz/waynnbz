@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi there, I'm Waynn 👋
+I'm passionate in building things people would love
 
-<!--
-**waynnbz/waynnbz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Current Projects
+---
+🥗 DietGo - I'm currently trying to build a diet suggestion app with AIGC
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Hobbies
+---
+🏃🏽‍♂️ Running (trying in to get my first marathon in 2023)\
+🎾 Tennis\
+🎬 Films\
+📖 Reading
+## Connect with Me
+---
+- [Porfolio](www.wpzeng.com)
+- [Linkedin](www.linkedin.com/in/wpzeng)
+- [TopCoder](www.topcoder.com/members/waynn)
