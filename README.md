@@ -2,7 +2,7 @@
 I'm passionate in building things people would love
 
 ## Current Projects
-🥗 DietGo - I'm currently builing a diet suggestion app with AIGC
+🥗 ATE - I'm currently builing meal tracking app with AIGC suggestions
 
 
 ## Hobbies
