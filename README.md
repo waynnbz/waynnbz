@@ -12,6 +12,6 @@ I love building solution that helps
 📖 Reading
 
 ## Connect with Me
-<!-- - [Porfolio](https://www.wpzeng.com) -->
+- [Porfolio](https://www.wpzeng.com)
 - [Linkedin](https://www.linkedin.com/in/wpzeng)
 - [TopCoder](https://www.topcoder.com/members/waynn)
