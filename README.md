@@ -2,7 +2,7 @@
 I love building solution that helps
 
 ## Current Projects
-🥗 ATE - I'm currently builing meal nutrition tracking app with AIGC
+🥗 ATE - I'm currently builing a meal nutrition suggestion app with AIGC
 
 
 ## Hobbies
