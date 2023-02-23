@@ -1,5 +1,5 @@
 # Hi there, I'm Waynn 👋
-I love building solution that helps
+I love building solution that helps people
 
 ## Current Projects
 🥗 ATE - I'm currently builing a meal nutrition suggestion app with AIGC
